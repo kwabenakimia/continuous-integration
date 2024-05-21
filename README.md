@@ -6,7 +6,9 @@ Got an error with _unicodefun from click
 '''
 pip install black==22.3.0
 pip install --upgrade click==8.0.2
-face difficulties pushing with git after updating only
+face difficulties pushing with git after updating only // fix by updating README.md
+pip install --upgrade black 
+
 '''
 
 ![IMG_231579152E51-1](https://user-images.githubusercontent.com/58792/159096348-dd6d4b9f-c247-4d23-8373-7540cd3dbb75.jpeg)
