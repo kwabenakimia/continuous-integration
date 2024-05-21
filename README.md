@@ -8,6 +8,7 @@ pip install black==22.3.0
 pip install --upgrade click==8.0.2
 face difficulties pushing with git after updating only // fix by updating README.md
 pip install --upgrade black 
+pip install black==20.8b1
 
 '''
 
